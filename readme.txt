@@ -1,0 +1,1 @@
+Practice project to learn details about git
